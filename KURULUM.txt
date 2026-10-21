@@ -1,0 +1,14 @@
+Askı v0.1 · GitHub Pages kurulumu
+
+1. GitHub'da yeni bir depo aç (örn. "aski"). Herkese açık olmalı.
+2. Bu klasördeki dosyaların hepsini deponun ana dizinine yükle:
+   index.html, manifest.webmanifest, sw.js, icon-180.png, icon-192.png, icon-512.png
+3. Depoda Settings > Pages > Branch: main, klasör: / (root) seç ve kaydet.
+4. Birkaç dakika sonra adres hazır olur: https://KULLANICI-ADIN.github.io/aski/
+5. iPhone'da bu adresi Safari'de aç, Paylaş > Ana Ekrana Ekle de.
+   Uygulama tam ekran açılır; fotoğraflar ve dolap o telefonda saklanır.
+
+Arkadaşlarına aynı adresi gönder. Herkesin dolabı kendi telefonunda kalır.
+Görüşlerini Profil > Görüş gönder ekranından kopyalayıp sana iletebilirler.
+
+Yeni sürüm geldiğinde dosyaları depoda değiştirmen yeterli; kullanıcıların verileri silinmez.
