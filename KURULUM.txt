@@ -1,5 +1,12 @@
-Askı v0.1 · GitHub Pages kurulumu
+Askı v0.1.1 · GitHub Pages
 
+ZATEN KURDUYSAN (güncelleme)
+1. GitHub'da Askı deposunu aç; Add file > Upload files.
+2. Bu klasördeki dosyaların hepsini sürükleyip bırak (aynı adlı dosyalar yenileriyle değişir) ve Commit changes de.
+3. 5-10 dakika bekle. Telefonda Askı'yı tamamen kapat (uygulama değiştiricide yukarı kaydır) ve yeniden aç.
+   Profil ekranının sağ üstünde v0.1.1 yazıyorsa güncellenmiştir. Dolabın ve fotoğrafların yerinde kalır.
+
+İLK KURULUM
 1. GitHub'da yeni bir depo aç (örn. "aski"). Herkese açık olmalı.
 2. Bu klasördeki dosyaların hepsini deponun ana dizinine yükle:
    index.html, manifest.webmanifest, sw.js, icon-180.png, icon-192.png, icon-512.png
@@ -10,5 +17,3 @@ Askı v0.1 · GitHub Pages kurulumu
 
 Arkadaşlarına aynı adresi gönder. Herkesin dolabı kendi telefonunda kalır.
 Görüşlerini Profil > Görüş gönder ekranından kopyalayıp sana iletebilirler.
-
-Yeni sürüm geldiğinde dosyaları depoda değiştirmen yeterli; kullanıcıların verileri silinmez.
